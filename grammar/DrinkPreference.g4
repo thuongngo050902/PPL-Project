@@ -34,8 +34,8 @@ prorule
 // ---------- các thuộc tính ----------
 
 temperature
-    : HOT
-    | WARM
+    : HOT  
+    | WARM  
     | COLD
     | ICED
     ;
